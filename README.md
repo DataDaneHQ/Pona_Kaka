@@ -19,6 +19,15 @@ The Pona Kakā initiative is focused on improving the lives of Māori individual
 
 <br>
 
+**Tools & Technologies Used**
+
+* MS Word
+* MS Excel
+* Python and Jupyter Notebook
+* Canva
+
+<br>
+
 **Objectives**
 
 1. **Project Workflow Outline:** Developed a detailed Word document outlining the project's objectives, proposed workflow, and key deliverables, serving as a roadmap for the analysis process.
