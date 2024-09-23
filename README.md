@@ -20,6 +20,7 @@ The Pona Kakā initiative is focused on improving the lives of Māori individual
 <br>
 
 **Objectives**
+
 1. **Project Workflow Outline:** Developed a detailed Word document outlining the project's objectives, proposed workflow, and key deliverables, serving as a roadmap for the analysis process.
 
 2. **Qualitative Data Analysis:** Conducted an in-depth review of interview transcripts to extract participants' experiences, identifying key themes and converting them into structured, quantifiable insights for further analysis.
@@ -35,6 +36,7 @@ The Pona Kakā initiative is focused on improving the lives of Māori individual
 <br>
 
 **Conclusion**
+
 The Pona Kakā Data Analysis Project provides valuable insights that support the continued success and expansion of this culturally significant initiative. Through data-driven recommendations, this project aims to ensure the long-term well-being of participants and their communities.
 
 <br>
