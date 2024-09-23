@@ -3,7 +3,7 @@
 
 ![Canva Presentation Home Page](Images/Canva_Presentation_Home_Page.png)
 
-***Please Note:*** *While my involvement and all project deliverables are complete, the final report has not yet been submitted to the funder, nor have the findings been shared with the participants. Until then, I am unable to share any findings, "Contents" items, or full details of the project. Estimated completion date - December 2024.*
+***Please Note:*** *While my involvement and all project deliverables are complete, the final report is pending submission to the funder, and the findings will first be shared with the participants. Until then, I am unable to share any "Contents" items, findings, or full details of the project. Estimated completion date - December 2024.*
 
 <br>
 
