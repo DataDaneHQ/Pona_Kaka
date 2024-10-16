@@ -3,7 +3,7 @@
 
 ![Canva Presentation Home Page](Images/Canva_Presentation_Home_Page.png)
 
-***Please Note:*** *While my involvement and all project deliverables are complete, the final report is pending submission to the funder, and the findings will first be shared with the participants. Until then, I am unable to share any "Objectives" items, findings, or full details of the project. Additionally, due to privacy limitations, not all "Objectives" documents will be posted once given the green light to share the project. Estimated completion date - December 2024.*
+***Please Note:*** *While my involvement and all project deliverables are complete, the final report is pending submission to the funder, and the findings will first be shared with the participants. Until then, I am unable to share any "Tasks and Deliverables", findings, or full details of the project. Additionally, due to privacy limitations, not all "Tasks and Deliverables" documents will be posted once given the green light to share the project. Estimated submission date - December 2024.*
 
 <br>
 
@@ -28,7 +28,7 @@ The Pona Kakā initiative is focused on improving the lives of Māori individual
 
 <br>
 
-**Objectives**
+**Tasks and Deliverables**
 
 1. **Project Workflow Outline:** Developed a detailed Word document outlining the project's objectives, proposed workflow, and key deliverables, serving as a roadmap for the analysis process.
 
