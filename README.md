@@ -46,7 +46,7 @@ The Pona Kakā initiative is focused on improving the lives of Māori individual
 
 **Conclusion**
 
-The Pona Kakā Data Analysis Project provides valuable insights that support the continued success and expansion of this culturally significant initiative. Through data-driven recommendations, this project aims to ensure the long-term well-being of participants and their communities.
+The Pona Kakā Data Analysis Project provides valuable insights that support the continued success and expansion of this culturally significant initiative. Through data-driven recommendations, this project aims to ensure the long-term well-being of participants and their communities. 
 
 <br>
 
