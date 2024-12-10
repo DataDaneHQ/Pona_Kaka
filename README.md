@@ -3,7 +3,7 @@
 
 ![Canva Presentation Home Page](Images/Canva_Presentation_Home_Page.png)
 
-***Please Note:*** *While my involvement and all project deliverables are complete, the final report is pending submission to the funder, and the findings will first be shared with the participants. Until then, I am unable to share any "Tasks and Deliverables", findings, or full details of the project. Additionally, due to privacy limitations, not all "Tasks and Deliverables" documents will be posted once given the green light to share the project. Estimated submission date - December 2024.*
+***Please Note:*** *The final report has been submitted to the funder, and I am now permitted to share the findings of my analysis. To uphold strict privacy protocols, interview transcripts, Excel spreadsheets, and Python notebooks remain confidential. Only the final Canva presentation is available for public viewing.*
 
 <br>
 
@@ -40,7 +40,7 @@ The Pona Kakā initiative is focused on improving the lives of Māori individual
 
 5. **Quantitative Data Analysis with Python:** Created, prepared, and analyzed a CSV file using Python to compute descriptive statistics, identify trends, and generate visualizations that highlight key insights from the data.
 
-6. **Report Creation and Presentation:** Synthesized qualitative and quantitative findings into a cohesive final report, designed in Canva. The report effectively communicates the project's impact on the Māori community, ensuring clarity and accessibility for non-technical stakeholders.
+6. [**Executive Report Creation and Presentation:**](https://www.canva.com/design/DAGQsX91AYM/H1cy7qOmBqp8JBitKbL0ag/view?utm_content=DAGQsX91AYM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf6ede6c9c7) Synthesized qualitative and quantitative findings into a cohesive presentation, designed in Canva. This excutive report effectively communicates the project's impact on the Māori community, ensuring clarity and accessibility for non-technical stakeholders.
 
 <br>
 
